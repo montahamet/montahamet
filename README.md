@@ -1,4 +1,8 @@
-## Hi there I am Montaha Metjaouel👋
+ Hi there I am Montaha Metjaouel👋
+ 
+- 🌱 I’m currently learning Machine learning...
+- 💬 Ask me about Devops...
+- 📫 How to reach me: montaha.metjaouel@esprit.tn
 
 <!--
 **montahamet/montahamet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
