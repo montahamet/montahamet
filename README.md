@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **montaha.metjaouel@esprit.tn**
   
-- 🔗 Connect with me on LinkedIn
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/montaha-metjaouel-a59636274/)  
 <br>
 
 
