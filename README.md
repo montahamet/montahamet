@@ -8,6 +8,8 @@
 - 💬 Ask me about **Devops**
 
 - 📫 How to reach me **montaha.metjaouel@esprit.tn**
+  
+- 🔗 Connect with me on LinkedIn
 <br>
 
 
