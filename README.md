@@ -3,9 +3,7 @@
 <h3 align="center">A passionate software engineer</h3>
 
 
-- 🌱 I’m currently learning **Machine learning**
-
-- 💬 Ask me about **Devops**
+- 🌱 I’m currently learning **Machine learning | Deep Learning**
 
 - 📫 How to reach me **montaha.metjaouel@esprit.tn**
   
