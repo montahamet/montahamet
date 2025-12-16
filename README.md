@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Machine learning | Deep Learning**
 
-- 📫 How to reach me **montaha.metjaouel@esprit.tn**
+- 📫 How to reach me **montaha.metjaouel1@gmail.com**
   
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/montaha-metjaouel-a59636274/)  
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/montaha-metjaouel/)  
 <br>
 
 
