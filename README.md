@@ -1,9 +1,7 @@
  
 <h1 align="center">Hi 👋, I'm montaha</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">ASoftware engineer passionate about AI</h3>
 
-
-- 🌱 I’m currently learning **Machine learning | Deep Learning**
 
 - 📫 How to reach me **montaha.metjaouel1@gmail.com**
   
